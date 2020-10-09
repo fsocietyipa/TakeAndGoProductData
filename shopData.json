@@ -1,0 +1,1070 @@
+[
+   {
+      "productID": 234497,
+      "productName": "Напиток Ups! Мохито-арбуз сокосодержащий 1.25 л",
+      "productPrice": 370,
+      "productWeight": "1.25 л"
+   },
+   {
+      "productID": 240367,
+      "productName": "Напиток Березка 1.5 л",
+      "productPrice": 340,
+      "productWeight": "1.5 л"
+   },
+   {
+      "productID": 240359,
+      "productName": "Лимонад Черноголовка Крюшон 1 л",
+      "productPrice": 505,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 240356,
+      "productName": "Лимонад Черноголовка Байкал 1 л",
+      "productPrice": 505,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 240352,
+      "productName": "Лимонад Черноголовка Буратино 1 л",
+      "productPrice": 505,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 240332,
+      "productName": "Напиток Fantola Mango Trio сильногазированный 1 л",
+      "productPrice": 320,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 240328,
+      "productName": "Напиток Fantola Bubble Gum сильногазированный 1 л",
+      "productPrice": 320,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 238860,
+      "productName": "Лимонад El Fresco Мохито клубничный 450 мл",
+      "productPrice": 285,
+      "productWeight": "450 мл"
+   },
+   {
+      "productID": 238859,
+      "productName": "Лимонад El Fresco Мохито классический 450 мл",
+      "productPrice": 285,
+      "productWeight": "450 мл"
+   },
+   {
+      "productID": 238858,
+      "productName": "Лимонад Mio молочный со вкусом малины 330 мл",
+      "productPrice": 255,
+      "productWeight": "330 мл"
+   },
+   {
+      "productID": 238857,
+      "productName": "Напиток Mio молочный со вкусом клубники 330 мл",
+      "productPrice": 255,
+      "productWeight": "330 мл"
+   },
+   {
+      "productID": 238856,
+      "productName": "Лимонад Mio молочный со вкусом ванили 330 мл",
+      "productPrice": 255,
+      "productWeight": "330 мл"
+   },
+   {
+      "productID": 238855,
+      "productName": "Тоник Schweppes Cola газированный 330 мл",
+      "productPrice": 415,
+      "productWeight": "330 мл"
+   },
+   {
+      "productID": 238854,
+      "productName": "Тоник Schweppes Orange газированный 330 мл",
+      "productPrice": 415,
+      "productWeight": "330 мл"
+   },
+   {
+      "productID": 238853,
+      "productName": "Тоник Schweppes Lemon газированный 330 мл",
+      "productPrice": 415,
+      "productWeight": "330 мл"
+   },
+   {
+      "productID": 238809,
+      "productName": "Чай Oh My Kombucha Honey со вкусом мёда 300 мл",
+      "productPrice": 1040,
+      "productWeight": "300 мл"
+   },
+   {
+      "productID": 238808,
+      "productName": "Чай Oh My Kombucha Coffee на основе кофе 300 мл",
+      "productPrice": 910,
+      "productWeight": "300 мл"
+   },
+   {
+      "productID": 238807,
+      "productName": "Чай Oh My Kombucha Green Tea на основе зеленого чая 300 мл",
+      "productPrice": 910,
+      "productWeight": "300 мл"
+   },
+   {
+      "productID": 238799,
+      "productName": "Чай Oh My Kombucha Classic на основе черного чая 300 мл",
+      "productPrice": 910,
+      "productWeight": "300 мл"
+   },
+   {
+      "productID": 238798,
+      "productName": "Чай Oh My Kombucha Hibiscus со вкусом гибискуса 300 мл",
+      "productPrice": 910,
+      "productWeight": "300 мл"
+   },
+   {
+      "productID": 238788,
+      "productName": "Напиток Schweppes Тоник 330 мл",
+      "productPrice": 335,
+      "productWeight": "330 мл"
+   },
+   {
+      "productID": 237469,
+      "productName": "Тоник Schweppes Indian Tonic газированный 330 мл",
+      "productPrice": 370,
+      "productWeight": "330 мл"
+   },
+   {
+      "productID": 235851,
+      "productName": "Напиток Pepsi Lime газированный 1 л",
+      "productPrice": 305,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 235850,
+      "productName": "Напиток Pepsi Lime газированный 500 мл",
+      "productPrice": 190,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 235634,
+      "productName": "Лимонад Настоящий Буратино сильногазированный 2.4 л",
+      "productPrice": 256,
+      "productWeight": "2.4 л"
+   },
+   {
+      "productID": 235632,
+      "productName": "Лимонад Настоящий Буратино сильногазированный 1.5 л",
+      "productPrice": 358,
+      "productWeight": "1.5 л"
+   },
+   {
+      "productID": 235631,
+      "productName": "Напиток Настоящий Буратино сильногазированный со вкусом мяты и дыни 1.5 л",
+      "productPrice": 358,
+      "productWeight": "1.5 л"
+   },
+   {
+      "productID": 235630,
+      "productName": "Напиток Настоящий Буратино сильногазированный со вкусом мяты и дыни 1 л",
+      "productPrice": 270,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 235629,
+      "productName": "Напиток Настоящий Буратино сильногазированный со вкусом мяты и дыни 500 мл",
+      "productPrice": 184,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 235583,
+      "productName": "Лимонад Чито Гврито со вкусом лимона 1 л",
+      "productPrice": 500,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 235581,
+      "productName": "Лимонад Чито Гврито Фейхоа 1 л",
+      "productPrice": 500,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 235579,
+      "productName": "Лимонад Чито Гврито Саперави 1 л",
+      "productPrice": 500,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 235578,
+      "productName": "Лимонад Чито Гврито Тархун 1 л",
+      "productPrice": 500,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 235577,
+      "productName": "Лимонад Чито Гврито со вкусом груши 1 л",
+      "productPrice": 500,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 235224,
+      "productName": "Напиток Витамин C Detox 200 мл",
+      "productPrice": 184,
+      "productWeight": "200 мл"
+   },
+   {
+      "productID": 234498,
+      "productName": "Напиток Ups! Мохито сокосодержащий 1.25 л",
+      "productPrice": 370,
+      "productWeight": "1.25 л"
+   },
+   {
+      "productID": 234502,
+      "productName": "Напиток Ups! Juice Вишня-малина сокосодержащий 1.25 л",
+      "productPrice": 370,
+      "productWeight": "1.25 л"
+   },
+   {
+      "productID": 234501,
+      "productName": "Напиток Ups! Juice Тропик сокосодержащий 1.25 л",
+      "productPrice": 370,
+      "productWeight": "1.25 л"
+   },
+   {
+      "productID": 234500,
+      "productName": "Напиток Ups! Juice Яблоко-гранат сокосодержащий 1.25 л",
+      "productPrice": 370,
+      "productWeight": "1.25 л"
+   },
+   {
+      "productID": 234499,
+      "productName": "Напиток Ups! Клубника-мохито сокосодержащий 1.25 л",
+      "productPrice": 370,
+      "productWeight": "1.25 л"
+   },
+   {
+      "productID": 20799,
+      "productName": "Напиток Coca-cola 1 л",
+      "productPrice": 295,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 233809,
+      "productName": "Напиток Laimon Fresh газированный 330 мл",
+      "productPrice": 235,
+      "productWeight": "330 мл"
+   },
+   {
+      "productID": 233810,
+      "productName": "Напиток Laimon Fresh газированный 1 л",
+      "productPrice": 370,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 20801,
+      "productName": "Напиток Fanta  1 л",
+      "productPrice": 310,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 20797,
+      "productName": "Напиток Sprite 1 л",
+      "productPrice": 310,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 48708,
+      "productName": "Напиток Coca-cola 500 мл",
+      "productPrice": 199,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 211215,
+      "productName": "Шампанское безалкогольное брют, Absolute Nature, виноградный нектар осветленный, 0,75 л",
+      "productPrice": 1685,
+      "productWeight": "0,75 л"
+   },
+   {
+      "productID": 225051,
+      "productName": "Напиток Биолимонад Medovarus Ride Черешня, 0,5 л",
+      "productPrice": 515,
+      "productWeight": "0,5 л"
+   },
+   {
+      "productID": 225052,
+      "productName": "Напиток Биолимонад Medovarus Ride Мед и травы, 0,5 л",
+      "productPrice": 515,
+      "productWeight": "0,5 л"
+   },
+   {
+      "productID": 225053,
+      "productName": "Напиток Биолимонад Medovarus Ride Фруктовый микс, 0,5 л",
+      "productPrice": 515,
+      "productWeight": "0,5 л"
+   },
+   {
+      "productID": 225050,
+      "productName": "Напиток Биолимонад Medovarus Ride Имбирный эль, 0,5 л",
+      "productPrice": 515,
+      "productWeight": "0,5 л"
+   },
+   {
+      "productID": 232661,
+      "productName": "Напиток Boom Free zero 330 мл",
+      "productPrice": 305,
+      "productWeight": "330 мл"
+   },
+   {
+      "productID": 232660,
+      "productName": "Напиток Boom Cola 330 мл",
+      "productPrice": 305,
+      "productWeight": "330 мл"
+   },
+   {
+      "productID": 232659,
+      "productName": "Напиток Boom Cherry 450 мл",
+      "productPrice": 325,
+      "productWeight": "450 мл"
+   },
+   {
+      "productID": 232598,
+      "productName": "Лимонад Swag ваниль-кола 330 мл",
+      "productPrice": 256,
+      "productWeight": "330 мл"
+   },
+   {
+      "productID": 232597,
+      "productName": "Лимонад Swag черная-смородина-драгонфрукт 330 мл",
+      "productPrice": 256,
+      "productWeight": "330 мл"
+   },
+   {
+      "productID": 232596,
+      "productName": "Лимонад Swag личи-мангостин 330 мл",
+      "productPrice": 256,
+      "productWeight": "330 мл"
+   },
+   {
+      "productID": 232595,
+      "productName": "Лимонад Swag лимон-эстрагон 330 мл",
+      "productPrice": 256,
+      "productWeight": "330 мл"
+   },
+   {
+      "productID": 232594,
+      "productName": "Лимонад Swag имбирный 330 мл",
+      "productPrice": 256,
+      "productWeight": "330 мл"
+   },
+   {
+      "productID": 232593,
+      "productName": "Лимонад Swag гранат-инжир 330 мл",
+      "productPrice": 256,
+      "productWeight": "330 мл"
+   },
+   {
+      "productID": 232362,
+      "productName": "Напиток Tassay Original Cola 2.5 л",
+      "productPrice": 369,
+      "productWeight": "2.5 л"
+   },
+   {
+      "productID": 232363,
+      "productName": "Напиток Tassay тархун 500 мл",
+      "productPrice": 278,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 231831,
+      "productName": "Напиток Витамин C газированный с медом 500 мл",
+      "productPrice": 214,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 231830,
+      "productName": "Напиток Витамин C газированный с сахаром 200 мл",
+      "productPrice": 184,
+      "productWeight": "200 мл"
+   },
+   {
+      "productID": 231818,
+      "productName": "Напиток Бочкари Ситро безалкогольный сильногазированный 1.5 л",
+      "productPrice": 386,
+      "productWeight": "1.5 л"
+   },
+   {
+      "productID": 231817,
+      "productName": "Лимонад Бочкари безалкогольный сильногазированный 1.5 л",
+      "productPrice": 386,
+      "productWeight": "1.5 л"
+   },
+   {
+      "productID": 231816,
+      "productName": "Напиток Бочкари Грушевый аромат безалкогольный сильногазированный 1.5 л",
+      "productPrice": 386,
+      "productWeight": "1.5 л"
+   },
+   {
+      "productID": 231815,
+      "productName": "Напиток Коктейль Мохито лайм-мята безалкогольный сильногазированный 500 мл",
+      "productPrice": 285,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 231814,
+      "productName": "Напиток Бочкари Коктейль мохито с арбузом безалкогольный сильногазированный 500 мл",
+      "productPrice": 285,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 231813,
+      "productName": "Лимонад Бочкари Домашний Клубничный безалкогольный среднегазированный 500 мл",
+      "productPrice": 310,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 231812,
+      "productName": "Напиток Бочкари Домашний лимонад Имбирный безалкогольный среднегазированный 500 мл",
+      "productPrice": 310,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 231143,
+      "productName": "Лимонад Натахтари Крем сливки 1 л",
+      "productPrice": 514,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 231142,
+      "productName": "Лимонад Натахтари Фейхоа 1 л",
+      "productPrice": 514,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 231141,
+      "productName": "Лимонад Натахтари Саперави 1 л",
+      "productPrice": 514,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 231140,
+      "productName": "Лимонад Натахтари Лимон 1 л",
+      "productPrice": 514,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 231139,
+      "productName": "Лимонад Натахтари Тархун 1 л",
+      "productPrice": 514,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 231137,
+      "productName": "Лимонад Натахтари Фейхоа 500 мл",
+      "productPrice": 410,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 231136,
+      "productName": "Лимонад Натахтари Барбарис 500 мл",
+      "productPrice": 410,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 231135,
+      "productName": "Лимонад Натахтари Крем сливки 500 мл",
+      "productPrice": 410,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 231134,
+      "productName": "Лимонад Натахтари Лимон 500 мл",
+      "productPrice": 412,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 231133,
+      "productName": "Лимонад Натахтари Саперави 500 мл",
+      "productPrice": 412,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 231132,
+      "productName": "Лимонад Натахтари Тархун 500 мл",
+      "productPrice": 412,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 231131,
+      "productName": "Лимонад Натахтари Груша 500 мл",
+      "productPrice": 412,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 226202,
+      "productName": "Напиток San Pellegrino сокосодержащий со вкусом лимона 330 мл",
+      "productPrice": 676,
+      "productWeight": "330 мл"
+   },
+   {
+      "productID": 226199,
+      "productName": "Напиток San Pellegrino сокосодержащий со вкусом апельсина 330 мл",
+      "productPrice": 676,
+      "productWeight": "330 мл"
+   },
+   {
+      "productID": 225084,
+      "productName": "Тоник Schweppes Citrus Mix газированный 330 мл",
+      "productPrice": 415,
+      "productWeight": "330 мл"
+   },
+   {
+      "productID": 222968,
+      "productName": "Тоник Schweppes Bitter Lemon газированный 330 мл",
+      "productPrice": 415,
+      "productWeight": "330 мл"
+   },
+   {
+      "productID": 204650,
+      "productName": "Лимонад Напитки из Черноголовки оригинальный ст/б 500 мл",
+      "productPrice": 284,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 204654,
+      "productName": "Лимонад Напитки из Черноголовки оригинальный ст/б 1 л",
+      "productPrice": 424,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 204662,
+      "productName": "Лимонад Напитки из Черноголовки тархун 1 л",
+      "productPrice": 424,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 204651,
+      "productName": "Лимонад Напитки из Черноголовки буратино ст/б 0.5л",
+      "productPrice": 284,
+      "productWeight": "ст/б 0.5л"
+   },
+   {
+      "productID": 196766,
+      "productName": "Напиток Sprite 500 мл",
+      "productPrice": 199,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 204696,
+      "productName": "Напиток Vitamin С Drink газированный  с витаминами B2 B6 250 мл",
+      "productPrice": 197,
+      "productWeight": "250 мл"
+   },
+   {
+      "productID": 48707,
+      "productName": "Напиток Fanta 500 мл",
+      "productPrice": 199,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 193932,
+      "productName": "Лимонад Dizzy fest berry 1 л",
+      "productPrice": 205,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 206207,
+      "productName": "Напиток Coca-cola без сахара 1 л",
+      "productPrice": 295,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 193933,
+      "productName": "Лимонад Dizzy fest berry 0.5 л",
+      "productPrice": 140,
+      "productWeight": "0.5 л"
+   },
+   {
+      "productID": 20796,
+      "productName": "Напиток Pepsi 1 л",
+      "productPrice": 295,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 20787,
+      "productName": "Лимонад Настоящий Буратино сильногазированный 500 мл",
+      "productPrice": 185,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 193929,
+      "productName": "Лимонад Златояр Буратино ст/б 0.5 л",
+      "productPrice": 236,
+      "productWeight": "0.5 л"
+   },
+   {
+      "productID": 193927,
+      "productName": "Лимонад Златояр ст/б 0.5л",
+      "productPrice": 236,
+      "productWeight": "ст/б 0.5л"
+   },
+   {
+      "productID": 193928,
+      "productName": "Лимонад Златояр тархун ст/б 0.5 л",
+      "productPrice": 236,
+      "productWeight": "0.5 л"
+   },
+   {
+      "productID": 204657,
+      "productName": "Лимонад Златояр буратино 1 л",
+      "productPrice": 258,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 20802,
+      "productName": "Лимонад Настоящий Буратино сильногазированный 1 л",
+      "productPrice": 270,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 20809,
+      "productName": "Лимонад Riks Тархун 500 мл",
+      "productPrice": 296,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 204855,
+      "productName": "Лимонад Riks Дюшес 500 мл",
+      "productPrice": 296,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 150752,
+      "productName": "Напиток Pepsi газированный 500 мл",
+      "productPrice": 188,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 209595,
+      "productName": "Напиток Sprite 1,75 л",
+      "productPrice": 417,
+      "productWeight": "1,75 л"
+   },
+   {
+      "productID": 209596,
+      "productName": "Напиток Fanta 1,75 л",
+      "productPrice": 380,
+      "productWeight": "1,75 л"
+   },
+   {
+      "productID": 224493,
+      "productName": "Напиток Holiday лимонад газированный 1 л",
+      "productPrice": 250,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 224494,
+      "productName": "Напиток Holiday cola american газированный  1,5 л",
+      "productPrice": 305,
+      "productWeight": "1,5 л"
+   },
+   {
+      "productID": 232970,
+      "productName": "Чай Fuse Tea ананас мята 1 л",
+      "productPrice": 300,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 235555,
+      "productName": "Чай Maxi Чай с клубникой 1.2 л",
+      "productPrice": 292,
+      "productWeight": "1.2 л"
+   },
+   {
+      "productID": 235222,
+      "productName": "Чай Ice Tea с персиком 1 л",
+      "productPrice": 232,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 235221,
+      "productName": "Чай Ice Tea с малиной 1 л",
+      "productPrice": 232,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 234508,
+      "productName": "Квас Бочонок Медового 1.2 л",
+      "productPrice": 307,
+      "productWeight": "1.2 л"
+   },
+   {
+      "productID": 234507,
+      "productName": "Квас Бочонок Хлебного 1.2 л",
+      "productPrice": 307,
+      "productWeight": "1.2 л"
+   },
+   {
+      "productID": 232569,
+      "productName": "Чай Fuse Tea зеленый манго и ромашка 1 л",
+      "productPrice": 310,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 232567,
+      "productName": "Чай Fuse Tea черный манго и ананас 1 л",
+      "productPrice": 310,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 232566,
+      "productName": "Чай Fuse Tea черный с лимоном 1 л",
+      "productPrice": 310,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 232565,
+      "productName": "Чай Fuse Tea черный с персиком 1 л",
+      "productPrice": 310,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 225301,
+      "productName": "Напиток Махi чай зеленый со вкусом лимона 1,2 л",
+      "productPrice": 292,
+      "productWeight": "1,2 л"
+   },
+   {
+      "productID": 232226,
+      "productName": "Чай Lipton Ice черный со вкусом малины 500 мл",
+      "productPrice": 188,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 232348,
+      "productName": "Чай Tassay черный с лесными ягодами 1 л",
+      "productPrice": 261,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 232228,
+      "productName": "Чай Lipton Ice черный со вкусом персика 1.5 л",
+      "productPrice": 374,
+      "productWeight": "1.5 л"
+   },
+   {
+      "productID": 225308,
+      "productName": "Напиток Первоквас со вкусом клюквы 1,5 л",
+      "productPrice": 303,
+      "productWeight": "1,5 л"
+   },
+   {
+      "productID": 225307,
+      "productName": "Напиток Первоквас классический 1,5 л",
+      "productPrice": 303,
+      "productWeight": "1,5 л"
+   },
+   {
+      "productID": 225305,
+      "productName": "Напиток Маxi чай черный со вкусом лайм и мята 1,2 л",
+      "productPrice": 292,
+      "productWeight": "1,2 л"
+   },
+   {
+      "productID": 225303,
+      "productName": "Напиток Махi чай черный со вкусом персика 1,2 л",
+      "productPrice": 292,
+      "productWeight": "1,2 л"
+   },
+   {
+      "productID": 225210,
+      "productName": "Лимонад Аскания со вкусом Яблока стекло 500 мл",
+      "productPrice": 400,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 225209,
+      "productName": "Лимонад Аскания со вкусом Лимона 500 мл стекло",
+      "productPrice": 416,
+      "productWeight": "мл стекло"
+   },
+   {
+      "productID": 225208,
+      "productName": "Лимонад Аскания со вкусом Лайм мята стекло 500 мл",
+      "productPrice": 416,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 225207,
+      "productName": "Лимонад Аскания со вкусом Клубники стекло 500 мл",
+      "productPrice": 416,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 225206,
+      "productName": "Лимонад Аскания со вкусом Граната стекло 500 мл",
+      "productPrice": 416,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 225086,
+      "productName": "Напиток Lotte Алоэ 240 мл",
+      "productPrice": 310,
+      "productWeight": "240 мл"
+   },
+   {
+      "productID": 224807,
+      "productName": "Чай зелёный Arizona с цитрусовыми 680 мл",
+      "productPrice": 850,
+      "productWeight": "680 мл"
+   },
+   {
+      "productID": 196077,
+      "productName": "Сок березовый Riks 1 л",
+      "productPrice": 297,
+      "productWeight": "1 л"
+   },
+   {
+      "productID": 240337,
+      "productName": "Напиток Zet Energy Citrus энергетический 500 мл",
+      "productPrice": 290,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 235945,
+      "productName": "Напиток Fly Energy энергетический 250 мл",
+      "productPrice": 416,
+      "productWeight": "250 мл"
+   },
+   {
+      "productID": 232754,
+      "productName": "Напиток Adrenaline Rush энергетический 449 мл",
+      "productPrice": 650,
+      "productWeight": "449 мл"
+   },
+   {
+      "productID": 237809,
+      "productName": "Напиток Dizzy Quick Energy энергетический с ягодами 355 мл",
+      "productPrice": 185,
+      "productWeight": "355 мл"
+   },
+   {
+      "productID": 237808,
+      "productName": "Напиток Dizzy The Doctor энергетический 500 мл",
+      "productPrice": 287,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 237807,
+      "productName": "Напиток Dizzy Energy Jabe 500 мл",
+      "productPrice": 287,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 237621,
+      "productName": "Напиток Чиа Омега-3 энергетический тропик 250 мл",
+      "productPrice": 1365,
+      "productWeight": "250 мл"
+   },
+   {
+      "productID": 235962,
+      "productName": "Напиток Adrenaline Игровая энергия энергетический Имбирь и лайм 449 мл",
+      "productPrice": 650,
+      "productWeight": "449 мл"
+   },
+   {
+      "productID": 235961,
+      "productName": "Напиток Adrenaline Игровая энергия конфетный вкус 449 мл",
+      "productPrice": 650,
+      "productWeight": "449 мл"
+   },
+   {
+      "productID": 235856,
+      "productName": "Напиток Yeti энергетический 450 мл",
+      "productPrice": 370,
+      "productWeight": "450 мл"
+   },
+   {
+      "productID": 235960,
+      "productName": "Напиток Drive Me Nitro энергетический 449 мл",
+      "productPrice": 292,
+      "productWeight": "449 мл"
+   },
+   {
+      "productID": 235471,
+      "productName": "Напиток Jaguar Wild энергетический 450 мл",
+      "productPrice": 305,
+      "productWeight": "450 мл"
+   },
+   {
+      "productID": 235470,
+      "productName": "Напиток Jaguar Live энергетический 450 мл",
+      "productPrice": 305,
+      "productWeight": "450 мл"
+   },
+   {
+      "productID": 235469,
+      "productName": "Напиток Jaguar Free энергетический 450 мл",
+      "productPrice": 305,
+      "productWeight": "450 мл"
+   },
+   {
+      "productID": 229539,
+      "productName": "Напиток Adrenaline Strong энергетический 250 мл",
+      "productPrice": 420,
+      "productWeight": "250 мл"
+   },
+   {
+      "productID": 206432,
+      "productName": "Напиток Adrenaline Rush энергетический 0.25 л",
+      "productPrice": 420,
+      "productWeight": "0.25 л"
+   },
+   {
+      "productID": 232786,
+      "productName": "Напиток Drive Me Original энергетический 449 мл",
+      "productPrice": 292,
+      "productWeight": "449 мл"
+   },
+   {
+      "productID": 232787,
+      "productName": "Напиток Drive Me Ягоды энергетический 449 мл",
+      "productPrice": 292,
+      "productWeight": "449 мл"
+   },
+   {
+      "productID": 232997,
+      "productName": "Напиток Red Bull энергетический 473 мл",
+      "productPrice": 915,
+      "productWeight": "473 мл"
+   },
+   {
+      "productID": 233026,
+      "productName": "Напиток Red Bull энергетический 4 шт 250 мл",
+      "productPrice": 1965,
+      "productWeight": "250 мл"
+   },
+   {
+      "productID": 233007,
+      "productName": "Напиток Red Bull Summer Edition энергетический 250 мл",
+      "productPrice": 540,
+      "productWeight": "250 мл"
+   },
+   {
+      "productID": 232998,
+      "productName": "Напиток Red Bull Yellow Edition энергетический 250 мл",
+      "productPrice": 540,
+      "productWeight": "250 мл"
+   },
+   {
+      "productID": 232887,
+      "productName": "Напиток Burn энергетический 250 мл",
+      "productPrice": 270,
+      "productWeight": "250 мл"
+   },
+   {
+      "productID": 232886,
+      "productName": "Напиток Monster энергетический 355 мл",
+      "productPrice": 490,
+      "productWeight": "355 мл"
+   },
+   {
+      "productID": 231820,
+      "productName": "Напиток Таргет Актив энергетический газированный 450 мл",
+      "productPrice": 566,
+      "productWeight": "450 мл"
+   },
+   {
+      "productID": 232656,
+      "productName": "Напиток Best Energy энергетический 450 мл",
+      "productPrice": 325,
+      "productWeight": "450 мл"
+   },
+   {
+      "productID": 232655,
+      "productName": "Напиток Best Energy энергетический 330 мл",
+      "productPrice": 305,
+      "productWeight": "330 мл"
+   },
+   {
+      "productID": 232654,
+      "productName": "Напиток Fire Energy энергетический 450 мл",
+      "productPrice": 325,
+      "productWeight": "450 мл"
+   },
+   {
+      "productID": 232653,
+      "productName": "Напиток Fire Energy энергетический 330 мл",
+      "productPrice": 305,
+      "productWeight": "330 мл"
+   },
+   {
+      "productID": 231821,
+      "productName": "Напиток Таргет энергетический газированный 450 мл",
+      "productPrice": 566,
+      "productWeight": "450 мл"
+   },
+   {
+      "productID": 229546,
+      "productName": "Напиток Zet Energy энергетический 500 мл",
+      "productPrice": 245,
+      "productWeight": "500 мл"
+   },
+   {
+      "productID": 205044,
+      "productName": "Напиток энергетический Red Bull 250 мл",
+      "productPrice": 543,
+      "productWeight": "250 мл"
+   },
+   {
+      "productID": 204853,
+      "productName": "Напиток Dizzy Energy original энергетический 0.33 л",
+      "productPrice": 280,
+      "productWeight": "0.33 л"
+   },
+   {
+      "productID": 204854,
+      "productName": "Напиток Dizzy Energy original энергетический ж/б, 250 мл",
+      "productPrice": 214,
+      "productWeight": "250 мл"
+   },
+   {
+      "productID": 209895,
+      "productName": "Напиток энергетический Red Bull 355 мл",
+      "productPrice": 700,
+      "productWeight": "355 мл"
+   },
+   {
+      "productID": 20782,
+      "productName": "Напиток Red Bull Sugar Free энергетический 250 мл",
+      "productPrice": 540,
+      "productWeight": "250 мл"
+   },
+   {
+      "productID": 193934,
+      "productName": "Напиток Dizzy energy coctails газированный 0,5 л",
+      "productPrice": 297,
+      "productWeight": "0,5 л"
+   },
+   {
+      "productID": 224713,
+      "productName": "Напиток энергетический Gorilla ж/б 450 мл",
+      "productPrice": 359,
+      "productWeight": "450 мл"
+   },
+   {
+      "productID": 237852,
+      "productName": "Напиток Jacobs Icepresso Latte кофейный 250 мл",
+      "productPrice": 595,
+      "productWeight": "250 мл"
+   },
+   {
+      "productID": 237851,
+      "productName": "Напиток Jacobs Icepresso Classic кофейный 250 мл",
+      "productPrice": 595,
+      "productWeight": "250 мл"
+   },
+   {
+      "productID": 234863,
+      "productName": "Напиток MacCoffee кофейный крепкий с молоком 240 мл",
+      "productPrice": 520,
+      "productWeight": "240 мл"
+   }
+]
